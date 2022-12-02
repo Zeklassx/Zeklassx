@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zeklassx
-- 👀 I’m interested in Node.js,HTML
-- 📫 How to reach me Discord İnstagram vb
+-👋 Merhaba, ben @Zeklassx
+-👀 Bu Yazılımlarla İlgileniyorum Node.js,HTML
+- 📫 Bana Aşağıdaki Linklerden Ulaşabilirsiniz Discord İnstagram vb
 
 
 My Social Media  links 
